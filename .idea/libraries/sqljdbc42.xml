@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sqljdbc42">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JDBC_SQL/sqljdbc_4.2/rus/sqljdbc42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
